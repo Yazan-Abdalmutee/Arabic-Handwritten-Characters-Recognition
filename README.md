@@ -16,7 +16,7 @@ The repository includes the following features:
 
 * **Different Augmentation Techniques:** Experimentation with various data augmentation techniques such as rotation, noise addition, and more to enhance model robustness.
 
-* **Use of Public CNN Models:** Exploration and implementation of popular CNN architectures like AlexNet, ResNet, etc., adapted or trained from scratch on the AHCR dataset.
+* **Use of Public CNN Models:** Exploration and implementation of popular CNN architectures like AlexNet, ResNet, etc.
 
 * **Utilization of Pre-trained Models:** Integration of pre-trained CNN models, fine-tuning them on the AHCR dataset to leverage transfer learning.
 
