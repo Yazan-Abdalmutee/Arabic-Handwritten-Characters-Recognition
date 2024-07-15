@@ -20,7 +20,7 @@ The repository includes the following features:
 
 * **Utilization of Pre-trained Models:** Integration of pre-trained CNN models, fine-tuning them on the AHCR dataset to leverage transfer learning.
 
-## Features Implemented
+## Files in the Repository
 
 The repository includes the following features:
 
