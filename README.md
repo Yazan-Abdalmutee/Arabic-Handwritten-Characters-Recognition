@@ -22,7 +22,7 @@ The repository includes the following features:
 
 ## Files in the Repository
 
-The repository includes the following features:
+The repository includes the following files:
 
 - **AHCR_Project.pdf:** Report detailing all project steps and findings, explaining the entire process of Arabic handwritten characters recognition.
 - **CNN Model Tuning:** Optimization of CNN architectures tailored for AHCR.
