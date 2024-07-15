@@ -1,6 +1,6 @@
 # Arabic Handwritten Characters Recognition (AHCR)
 
-This repository focuses on recognizing Arabic handwritten characters using various deep learning techniques.
+This repository focuses on recognizing Arabic handwritten characters using Convolutional Neural Network (CNN).
 
 ## Dataset
 
