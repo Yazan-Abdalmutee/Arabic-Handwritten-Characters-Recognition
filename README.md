@@ -20,3 +20,11 @@ The repository includes the following features:
 
 * **Utilization of Pre-trained Models:** Integration of pre-trained CNN models, fine-tuning them on the AHCR dataset to leverage transfer learning.
 
+## Features Implemented
+
+The repository includes the following features:
+
+- **CNN Model Tuning:** Optimization of CNN architectures tailored for AHCR.
+- **Model Training and Evaluation:** Training and assessing model performance on AHCR dataset.
+- **Usage of Public CNN Models:** Exploration of established CNN architectures adapted for AHCR.
+- **Transfer Learning:** Application of transfer learning techniques using pre-trained models for AHCR.
